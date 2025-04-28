@@ -18,13 +18,13 @@
         {
             "binding": "DB",
             "database_name": "navigation-db-local",
-            "database_id": "43ff28e1-42d6-4e53-9657-0702ae1353b6"
+            "database_id": "1272a6c0-9f79-4a3c-9571-aec3b2f84993"
         }
     ],
     "vars": {
         "AUTH_ENABLED": "true",
-        "AUTH_USERNAME": "linuxdo",
-        "AUTH_PASSWORD": "linuxdo",
-        "AUTH_SECRET": "linuxdo"
+        "AUTH_USERNAME": "admin",
+        "AUTH_PASSWORD": "fei2007002",
+        "AUTH_SECRET": "fei2007002"
     }
 }
