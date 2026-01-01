@@ -18,7 +18,7 @@
         {
             "binding": "DB",
             "database_name": "navigation-db",
-            "database_id": "a8d6c615-fedd-4b30-bd6b-bce6aa9a096b"
+            "database_id": "f9ff228d-61ff-4cb8-a820-62095c1a1dbc"
         }
     ],
     "vars": {
@@ -28,5 +28,6 @@
         "AUTH_SECRET": "$2y$10$IMVl9NM.Smo7xbPVyi9HEOBhcLxOPKEp9RBIEoijS4YbKjeyFjJFm"
     }
 }
+
 
 
