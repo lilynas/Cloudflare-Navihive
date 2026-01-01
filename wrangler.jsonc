@@ -17,8 +17,8 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-db-local",
-            "database_id": "43ff28e1-42d6-4e53-9657-0702ae1353b6"
+            "database_name": "navigation-db",
+            "database_id": "a8d6c615-fedd-4b30-bd6b-bce6aa9a096b"
         }
     ],
     "vars": {
@@ -28,3 +28,4 @@
         "AUTH_SECRET": "linuxdo"
     }
 }
+
